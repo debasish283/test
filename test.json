@@ -5,19 +5,24 @@
             "name": "CIS",
             "children": [
                 {
-                    "name": "MS Office"
+                    "name": "MS Office",
+                    "size": 1
                 },
                 {
-                    "name": "MS Outlook"
+                    "name": "MS Outlook",
+                    "size": 1
                 },
                 {
-                    "name": "ProcurePlus"
+                    "name": "ProcurePlus",
+                    "size": 1
                 },
                 {
-                    "name": "Adobe Reader"
+                    "name": "Adobe Reader",
+                    "size": 1
                 },
                 {
-                    "name": "Chrome"
+                    "name": "Chrome",
+                    "size": 1
                 }
             ]
         },
@@ -25,22 +30,28 @@
             "name": "Cloud",
             "children": [
                 {
-                    "name": "MS Office"
+                    "name": "MS Office",
+                    "size": 1
                 },
                 {
-                    "name": "MS Outlook"
+                    "name": "MS Outlook",
+                    "size": 1
                 },
                 {
-                    "name": "ProcurePlus"
+                    "name": "ProcurePlus",
+                    "size": 1
                 },
                 {
-                    "name": "Adobe Reader"
+                    "name": "Adobe Reader",
+                    "size": 1
                 },
                 {
-                    "name": "Notepad"
+                    "name": "Notepad",
+                    "size": 1
                 },
                 {
-                    "name": "Chrome"
+                    "name": "Chrome",
+                    "size": 1
                 }
             ]
         },
@@ -48,10 +59,12 @@
             "name": "Security",
             "children": [
                 {
-                    "name": "Chrome"
+                    "name": "Chrome",
+                    "size": 1
                 },
                 {
-                    "name": "MS Outlook"
+                    "name": "MS Outlook",
+                    "size": 1
                 }
             ]
         }
