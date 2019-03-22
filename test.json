@@ -1,0 +1,72 @@
+{
+    "name": "Microland",
+    "children": [
+        {
+            "name": "CIS",
+            "children": [
+                {
+                    "name": "MS Office",
+                    "size": 1
+                },
+                {
+                    "name": "MS Outlook",
+                    "size": 1
+                },
+                {
+                    "name": "ProcurePlus",
+                    "size": 1
+                },
+                {
+                    "name": "Adobe Reader",
+                    "size": 1
+                },
+                {
+                    "name": "Chrome",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Cloud",
+            "children": [
+                {
+                    "name": "MS Office",
+                    "size": 1
+                },
+                {
+                    "name": "MS Outlook",
+                    "size": 1
+                },
+                {
+                    "name": "ProcurePlus",
+                    "size": 1
+                },
+                {
+                    "name": "Adobe Reader",
+                    "size": 1
+                },
+                {
+                    "name": "Notepad",
+                    "size": 1
+                },
+                {
+                    "name": "Chrome",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": "Security",
+            "children": [
+                {
+                    "name": "Chrome",
+                    "size": 1
+                },
+                {
+                    "name": "MS Outlook",
+                    "size": 1
+                }
+            ]
+        }
+    ]
+}
